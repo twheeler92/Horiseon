@@ -15,6 +15,7 @@ body {
     color: #ffffff;
 }
 
+/* consilidated some heading stlye elemenets */
 .header h1 {
     display: inline-block;
     font-size: 48px;
@@ -86,6 +87,7 @@ p {
     background-color: #2589bd;
 }
 
+/* consolidated styling for side box elements */
 .side-box {
     margin-bottom: 32px;
     color: #ffffff;
@@ -102,6 +104,7 @@ p {
     max-width: 150px;
 }
 
+/* consolidated styling for main content box */
 .info-box {
     margin-bottom: 20px;
     padding: 50px;
